@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  background-color: white;
+  border-radius: 30px;
+  padding: 1em;
+  margin: 4em;
+  border-style: dashed;
+  border-color: darkgreen;
+}
+
+.Button {
+  padding: 0.5em;
+}
+
+.Buttons {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin: 1em;
+}
+
+.Image {
+  width: 7em;
+  padding: 1em;
+}
+
+.Player {
+  padding: 2em;
+  text-align: center;
+}
+
+.Result {
+  font-size: x-large;
+}
+
+.Title {
+  font-family: "Rye", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: xx-large;
+}
