@@ -6,7 +6,7 @@ Follows most Blackjack rules:
 * Starts with 6 decks
 * Aces are worth either 1 or 11 depending on what is most helpful
 * The house starts with one face up and one face down card
-* The house will draw up to 17 if player stands while less than 17
+* The house will draw up to 17 if less than 17 when player stands
 * The player can hit for additional cards or stand to end their turn
 * The player loses if their card value goes over 21
 * The player loses if they stand and the house has a higher value than them, or draws a higher value while drawing over 17
@@ -25,4 +25,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
+Launches the test runner in the interactive watch mode.

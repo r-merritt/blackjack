@@ -187,6 +187,7 @@ function App() {
   }
 
   async function restart() {
+    setShowDealerCards(false);
     setDealerCards([]);
     setPlayerCards([]);
     setDealerImgs([]);
